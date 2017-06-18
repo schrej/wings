@@ -1,4 +1,4 @@
-# pterodactyld
+# wings.go
 A new generation of the Pterodactyl daemon, written in go
 
 **This project is currently in a very early stage. Do not use in production.**
