@@ -1,5 +1,10 @@
 # Changelog
 
+## v1.0.0-beta-test
+
+### Added
+* Release automation
+
 ## v1.0.0-beta.3
 ### Fixed
 * Daemon will no longer crash if someone requests a websocket for a deleted server.
